@@ -34,8 +34,8 @@ The framework includes:
 * ATTH
 * REFE
 * REFH
-* ItoE (Our model - Euclidean)
-* ItoP (Our model - Poincare)
+* ItoE (Our model - Euclidean) - Currently under the name SDE in the script
+* ItoP (Our model - Poincare) - Currently under the name SDP in the script
 ## Training
 Run the example commands from the example commands folder
 ```bash
